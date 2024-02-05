@@ -3,10 +3,10 @@ torchvision
 openmim
 mmdet
 mmyolo
-gradio
+# gradio
 transformers
 addict
-yapf
+# yapf
 numpy
 opencv-python
 supervision==0.6.0
