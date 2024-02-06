@@ -15,7 +15,7 @@ tokenizers
 addict 
 numpy
 opencv-python
-supervision==0.6.0
+supervision==0.18.0
 
 # Development
 # yapf
